@@ -7,6 +7,7 @@
 二つのモデルを組み合わせて仕様します。
 ドラッグ＆ドロップ
 <img width="300" alt="part" src="images/IMG_0924-2.jpg">
+<br>
 <img width="300" alt="assemble1" src="images/IMG_0926.jpg">
 <br>
 ベアリングユニット取り付ける関係でアンダートレイを削って加工する必要があります。
