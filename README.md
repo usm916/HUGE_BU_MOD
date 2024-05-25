@@ -6,12 +6,15 @@
 
 二つのモデルを組み合わせて仕様します。
 ドラッグ＆ドロップ
-![parts](images/IMG_0924-2.jpg)
+<img width="500" alt="part" src="images/IMG_0924-2.jpg">
+<img width="500" alt="assemble1" src="images/IMG_0926.jpg">
+<br>
 ベアリングユニット取り付ける関係でアンダートレイを削って加工する必要があります。
-![cut](images/IMG_0926.jpg)
-![cut](images/IMG_0934-2.jpg)
+
+<img width="500" alt="CUT under tray" src="images/IMG_0934-2.jpg">
+<br>
 トップケースの裏に取り付けた状態
-![parts](images/IMG_0917-2.jpg)
+<img width="500" alt="assemble2" src="images/IMG_0917-2.jpg">
 IST用の交換ベアリングユニット(M-BS10)は別途入手してください。
 
 - ベアリングユニットはエレコムIST用のベアリングを想定しています。
